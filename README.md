@@ -29,7 +29,7 @@ I’m gonna learn how to create a new Expo app with TypeScript. I’ll learn wha
 
 **GIF expression I should add:** I’m celebrating because my first Expo app finally runs on my phone. Use an excited Pikachu jumping with joy.
 
-<img align="center" src="https://media.tenor.com/3IACtMvxwdsAAAAj/pikachu-happy.gif" alt="Pokemon Jumping" width="300" />
+<img align="middle" src="https://media.tenor.com/3IACtMvxwdsAAAAj/pikachu-happy.gif" alt="Pokemon Jumping" width="300" />
 
 ### 2. Navigation with Expo Router
 
