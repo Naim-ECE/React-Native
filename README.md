@@ -29,7 +29,7 @@ I’m gonna learn how to create a new Expo app with TypeScript. I’ll learn wha
 
 **GIF expression I should add:** I’m celebrating because my first Expo app finally runs on my phone. Use an excited Pikachu jumping with joy.
 
-<img align="center" src="https://tenor.com/en-GB/view/pikachu-happy-cute-pokemon-excited-gif-17711562" alt="Pokemon Jumping" width="300" />
+<img align="center" src="https://media.tenor.com/3IACtMvxwdsAAAAj/pikachu-happy.gif" alt="Pokemon Jumping" width="300" />
 
 ### 2. Navigation with Expo Router
 
@@ -37,7 +37,7 @@ I’m gonna learn how to add navigation using Expo Router. I’ll learn how to c
 
 **GIF expression I should add:** I’m focused and learning how screens connect. Use a focused Bulbasaur typing on a laptop.
 
-<img align="center" src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" alt="Focused Bulbasaur typing on a laptop while I learn Expo Router navigation" width="300" />
+<img align="center" src="https://media1.tenor.com/m/YJ59VV_gB2EAAAAC/bulbasaur.gif" alt="Focused Bulbasaur typing on a laptop while I learn Expo Router navigation" width="300" />
 
 ### 3. Layout and Flexbox
 
@@ -45,7 +45,7 @@ I’m gonna learn how to break down an app layout using Flexbox. I’ll learn ho
 
 **GIF expression I should add:** I’m carefully arranging boxes and spacing. Use a Charmander measuring or arranging blocks.
 
-<img align="center" src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" alt="Charmander carefully arranging blocks while I learn Flexbox layout" width="300" />
+<img align="center" src="https://media1.tenor.com/m/XnjYv6K5T5cAAAAC/cutie.gif" alt="Charmander carefully arranging blocks while I learn Flexbox layout" width="300" />
 
 ### 4. Expo UI Components and Native Buttons
 
@@ -53,7 +53,7 @@ I’m gonna learn how to create native buttons and use Expo UI components. I’l
 
 **GIF expression I should add:** I’m confident because my buttons work on both platforms. Use a Squirtle giving a thumbs-up.
 
-<img align="center" src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" alt="Squirtle giving a thumbs-up because my Expo buttons work on iOS and Android" width="300" />
+<img align="center" src="https://media1.tenor.com/m/y8_GcVWBbFoAAAAC/squitle-arroz.gif" alt="Squirtle giving a thumbs-up because my Expo buttons work on iOS and Android" width="300" />
 
 ### 5. Picking Images from the Media Library
 
@@ -61,7 +61,7 @@ I’m gonna learn how to pick images from the device’s media library. I’ll l
 
 **GIF expression I should add:** I’m curious and choosing a photo. Use an Eevee looking curiously at a picture.
 
-<img align="center" src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" alt="Curious Eevee looking at a picture while I learn how to pick images from the media library" width="300" />
+<img align="center" src="https://media1.tenor.com/m/WF9ahkVEZZUAAAAC/eevee-eevee-wow.gif" alt="Curious Eevee looking at a picture while I learn how to pick images from the media library" width="300" />
 
 ### 6. Bottom Sheets and FlatList
 
@@ -69,7 +69,7 @@ I’m gonna learn how to build an emoji picker using an Expo UI bottom sheet and
 
 **GIF expression I should add:** I’m scrolling through emojis and picking one. Use a Jigglypuff happily singing or scrolling.
 
-<img align="center" src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" alt="Jigglypuff happily singing while I scroll through emojis in a FlatList" width="300" />
+<img align="center" src="https://media.tenor.com/Y0AnWAY8QlIAAAAi/meloetta-pokemon.gif" alt="Meloetta happily singing while I scroll through emojis in a FlatList" width="300" />
 
 ### 7. Touch Gestures and Stickers
 
@@ -77,7 +77,7 @@ I’m gonna learn how to add touch gestures to stickers. I’ll learn how to han
 
 **GIF expression I should add:** I’m moving a sticker around with my finger. Use a Mr. Mime pretending to move something with its hands.
 
-<img align="center" src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" alt="Mr. Mime pretending to move something with its hands while I learn touch gestures" width="300" />
+<img align="center" src="https://media1.tenor.com/m/cEVQyzJrVsQAAAAd/mrmime.gif" alt="Mr. Mime pretending to move something with its hands while I learn touch gestures" width="300" />
 
 ### 8. Screenshots and Saving Images
 
@@ -85,7 +85,7 @@ I’m gonna learn how to capture a screenshot of my app view. I’ll learn how t
 
 **GIF expression I should add:** I’m saving my finished sticker image. Use a Smeargle painting or holding a picture.
 
-<img align="center" src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" alt="Smeargle painting a picture while I learn how to save screenshots" width="300" />
+<img align="center" src="https://media1.tenor.com/m/GCVR0l-_aN4AAAAC/smeargle.gif" alt="Smeargle painting a picture while I learn how to save screenshots" width="300" />
 
 ### 9. App Polish: Status Bar, Splash Screen, and Icons
 
@@ -93,7 +93,7 @@ I’m gonna learn how to configure the status bar, splash screen, and app icon. 
 
 **GIF expression I should add:** I’m adding sparkle and polish to my app. Use a Pikachu with sparkles or a shiny effect.
 
-<img align="center" src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" alt="Pikachu with sparkles while I polish my app with a splash screen and icon" width="300" />
+<img align="center" src="https://media1.tenor.com/m/_mQwj8JmH_gAAAAC/pikachu-correndo-pok%C3%A9mon.gif" alt="Pikachu with sparkles while I polish my app with a splash screen and icon" width="300" />
 
 ### 10. Testing and Debugging
 
@@ -101,7 +101,7 @@ I’m gonna learn how to test my app on a physical device, simulator, and web. I
 
 **GIF expression I should add:** I’m confused for a second, then I fix the bug. Use a Psyduck debugging, then celebrating.
 
-<img align="center" src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" alt="Psyduck figuring out a bug and then celebrating while I test and debug my app" width="300" />
+<img align="center" src="https://media1.tenor.com/m/Rc1GWDr71WIAAAAC/psyduck.gif" alt="Psyduck figuring out a bug and then celebrating while I test and debug my app" width="300" />
 
 ---
 
