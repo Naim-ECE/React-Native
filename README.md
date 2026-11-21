@@ -1,4 +1,5 @@
-# React-Native# React Native Expo Learning Journey 🚀
+# React-Native
+# React Native Expo Learning Journey 🚀
 
 I’m learning React Native with Expo by following this video:  
 [https://www.youtube.com/watch?v=XCifkDC0yXA&t=906s](https://www.youtube.com/watch?v=XCifkDC0yXA&t=906s)
