@@ -12,7 +12,7 @@ A macro tracking app built with React Native and Expo as part of the [React Nati
 > **📝 Following along with the course?** Check out the [STEPS.md](STEPS.md) file for the complete step-by-step guide with all the code for each section. The drawing from the video is also in this repo.
 
 <p align="center">
-  <img src="assets/screen.png" alt="MacroZone App" width="300" />
+  <img src="https://github.com/bradtraversy/macrozone/blob/master/assets/screen.png" alt="MacroZone App" width="300" />
 </p>
 
 ## Features
